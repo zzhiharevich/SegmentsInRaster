@@ -1,0 +1,37 @@
+.root{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 580px;
+}
+
+h5{
+    margin: 0px;
+}
+
+canvas{
+    border-left: 3px solid red;
+    border-bottom: 3px solid red;
+    margin: 20px;
+}
+
+.algorithm{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.algorithm button{
+    margin: 3px;
+}
+
+.coords{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.coords input{
+    margin  : 3px;
+}
+
